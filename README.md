@@ -1,0 +1,3 @@
+Em um projeto desenvolvido para a faculdade desenvolvi um sistema Crud feito com Node, React e MySql para gerenciamento de tarefas, onde permite registrar um responsável, a tarefa que precisa ser realizada e a data em que a mesma precisa ser entregue.
+No banco de dados integrado foi criado um schema simples com apenas uma tabela para o armazenamento dos dados.
+Ele possui três campos os quais são para adicionar as informações, possui também três botões, um para salvar os dados, um que só aparece após a adição das informações o qual serve para editar os dados e por último é um botão para deletar.
